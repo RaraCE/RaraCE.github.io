@@ -1,0 +1,47 @@
+body {
+	background: #000000; /*black*/
+	text-align: center;
+}
+#main{
+	width: 1000px;
+	height: 250px;
+	background: #196dff; /*blue*/
+	margin: 25px auto;
+	border: solid 2px #f0ffff; /*azure*/
+}
+#two{
+	width: 1000px;
+	height: 400px;
+	background: #196dff;
+	margin: 25px auto;
+	border: solid 2px #f0ffff;
+}
+h1{
+	text-align: center;
+	font-family: "Times New Roman";
+	font: 24pt;
+	color: #f0ffff; /*azure*/
+}
+h2 {
+	text-align: center;
+	font-family: "Times New Roman";
+	font: 24pt;
+	color: #000000; /*black*/
+}
+hr {
+	height: 2px;
+	color: #ffe4c4; /*bisque*/
+}
+p{
+	font-family:"Calibri";
+	font-size: 12pt;
+	text-align: left;
+	text-indent: 48px;
+	color: #000000; /*black*/
+}
+button {
+	background-color: #deb887;
+	width: 100px;
+	height: 40px;
+	border: solid 1px #000000;
+}
