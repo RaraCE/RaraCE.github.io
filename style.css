@@ -10,7 +10,7 @@ head {
 body {
   text-align: center;
   font-family: "Georgia";
-  background: #f0ffff;
+  background: rgb(211, 211, 211);
 }
 p {
   text-align: center;
