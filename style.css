@@ -1,8 +1,13 @@
+#main {
+  text-align: center;
+  margin: 25px auto;
+  border: solid 2px "black";
+}
 head {
-text-align: center;
+  text-align: center;
 }
 body {
-text-align: center;
+  text-align: center;
 }
 p {
   text-align: center;
