@@ -5,13 +5,15 @@
 }
 head {
   text-align: center;
+  font-family: "Georgia";
 }
 body {
   text-align: center;
+  font-family: "Georgia";
 }
 p {
   text-align: center;
-  font-family: "Times New Roman";
+  font-family: "Georgia";
 }
 
 
