@@ -1,3 +1,6 @@
+# Introduction 
+This website is to serve as my portfolio and lists my achievements, work or academic experiences, awards and certifications. I go into further depth through the links provided on certain subjects, like what I learned, what I liked the most, etc. Enjoy!
+
 # Computer Languages
 1. [MATLAB](./matlab.md)
 2. LABVIEW
