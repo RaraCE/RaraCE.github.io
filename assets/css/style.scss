@@ -3,10 +3,12 @@
 
 @import "{{ site.theme }}";
 #banner {
-  background: rgb(0,0,0);
+  background: rgb(255,255,255);
   border: rgb(77,77,77);
 }
 header {
   background: rgb(0,0,255);
 }
-
+table {
+  border: rgb(0,0,255);
+}
