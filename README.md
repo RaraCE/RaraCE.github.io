@@ -54,7 +54,7 @@ Writing has always filled my life, but as a hobby it has reached into mutlple bo
 
 # Volunteer Work And Other Extracurricular Activities
 Organization | Description
----- | ----
+----|----
 Astronomy Club | Weekly events: using campus telescope, field trips to meteor sites, science festivals, etc.
 Rocky CUWiP Mountain | Conference for Undergraduate Women in Physics
 Slide Rock Park | Clean up project; tore out old trees, planted new ones, and cleaned up any garbage
