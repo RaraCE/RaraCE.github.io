@@ -14,8 +14,9 @@ Python | General-purpose
 
 
 # Research
-1. [Nanoscience](./nano.md)
-2. [Astronomy](./astro.md)
+Click one of the links below to read more about my research I conducted during college! One of them I was awarded the HURA sponsorship program.
+
+[Nanoscience](./nano.md) | [Astronomy](./astro.md)
 
 # Education
 ![degree](diploma.jpg)
