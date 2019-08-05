@@ -18,6 +18,9 @@ We investigate the dynamics of structured photoactive microswimmers and show tha
 
 
 ![particleimage](./3-15-17 Ti019 image1.tif)
+
 ![image2](./MMMplain_19.tif)
-![image3](./Si02Pt_h2o2_2.tif)
+
+![image3](./SiO2Pt_h2o2_2.tif)
+
 ![image4](./Poster2.pptx)
