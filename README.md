@@ -7,7 +7,7 @@
 
 # Research
 1. [Nanoscience](./nano.md)
-2. Astronomy
+2. [Astronomy](./astro.md)
 
 # Science
 1. Phyiscs
