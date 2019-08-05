@@ -6,7 +6,7 @@
 5. Python
 
 # Research
-1. [Nanoscience](./nano.html)
+1. [Nanoscience](./nano.md)
 2. Astronomy
 
 # Science
