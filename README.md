@@ -53,6 +53,7 @@ Writing has always filled my life, but as a hobby it has reached into mutlple bo
 1. [Python](./python.md): A certification I earned through Edx.org.
 
 # Volunteer Work And Other Extracurricular Activities
+
 Organization | Description
 ----|----
 Astronomy Club | Weekly events: using campus telescope, field trips to meteor sites, science festivals, etc.
