@@ -2,13 +2,16 @@
 This website is to serve as my portfolio and lists my achievements, work or academic experiences, awards and certifications. I go into further depth through the links provided on certain subjects, like what I learned, what I liked the most, etc. Enjoy!
 
 # Computer Languages
-From multi-paradigm numerical computing environments to object-oriented programming, I have quite a range of experience in different computer languages. Some I learned while in college, while the rest I taught myself. I have yet to master any, but I do like a challenge.
+From multi-paradigm numerical computing environments to object-oriented programming, I have quite a range of experience in different computer languages. Some I learned during college, while the rest I taught myself.
 
-1. [MATLAB](./matlab.md)
-2. LABVIEW
-3. Java
-4. HTML/CSS
-5. Python
+Language | Description       
+----|----
+MATLAB | Numerical computing
+LABVIEW | Visual programming
+Java | Object-oriented programming
+HTML/CSS | Web developing
+Python | General-purpose
+
 
 # Research
 1. [Nanoscience](./nano.md)
