@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 #banner {
   background: rgb(0,0,0);
-  border: rgb(255,255,255);
+  border-line: rgb(255,255,255);
 }
 header {
   background: rgb(0,0,255);
 }
 table {
-  border: rgb(0,0,255);
+  borderline: rgb(0,0,255);
 }
