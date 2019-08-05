@@ -19,8 +19,9 @@ Click one of the links below to read more about my research I conducted during c
 [Nanoscience](./nano.md) | [Astronomy](./astro.md)
 
 # Education
-![degree](diploma.jpg)
-[NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV)
+1. [Diploma](./degree.md)
+
+2. [NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV)
 
 # Science
 1. Phyiscs
