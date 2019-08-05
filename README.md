@@ -1,16 +1,27 @@
 # Introduction 
 This website is to serve as my portfolio. It lists my achievements, work or academic experiences, awards and certifications. I go into further depth through the links provided on certain subjects, like what I learned, what I liked the most, etc.
 
+# Work Experience
+
+Company | Job Title
+---- | ----
+Northern Arizona University | [Research Assistant](./nauRA.md)
+Northern Arizona University | [Teacher's Assistant](./nauTA.md)
+Retail | [Barista, Cashier, Pet Specialist, etc.](./retail.md)
+NITARP/NASA | [Research Assistant](./embryRA.md)
+Mountain View High | [Secretary Assistant/Copier](./highschool.md)
+
+
 # Computer Languages
 From multi-paradigm numerical computing environments to object-oriented programming, I have quite a range of experience in different computer languages. 
 
 Language | Description       
 ----|----
-MATLAB | Numerical computing
-LABVIEW | Visual programming
-Java | Object-oriented programming
-HTML/CSS | Web developing
-Python | General-purpose
+[MATLAB](./matlab.md) | Numerical computing
+[LABVIEW](./labview.md) | Visual programming
+[Java](./java.md) | Object-oriented programming
+[HTML/CSS](./webdev.md) | Web developing
+[Python](./pythonpro.md) | General-purpose
 
 
 # Research
