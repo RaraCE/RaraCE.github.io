@@ -36,8 +36,8 @@ Click one of the links below to read more about my research I conducted during c
 # Science
 A somewhat highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist.
 
-1. Phyiscs
-2. Chemistry
+1. [Phyiscs](./physics.md)
+2. [Chemistry](./chemistry.md)
 3. Mathematics
 4. Electronics
 
