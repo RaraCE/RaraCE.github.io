@@ -16,7 +16,7 @@ From multi-paradigm numerical computing environments to object-oriented programm
 
 # Education
 ![degree](diploma.jpg)
-[![NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV)]
+[NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV)
 
 # Science
 1. Phyiscs
