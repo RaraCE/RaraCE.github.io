@@ -14,6 +14,10 @@ From multi-paradigm numerical computing environments to object-oriented programm
 1. [Nanoscience](./nano.md)
 2. [Astronomy](./astro.md)
 
+# Education
+![degree](diploma.jpg)
+![NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV) 
+
 # Science
 1. Phyiscs
 2. Chemistry
