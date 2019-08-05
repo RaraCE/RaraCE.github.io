@@ -1,5 +1,5 @@
-# Ra'Shae Esplin's Portfolio
-## _Computer Programmer & Physicist & Author_
+title: [Ra'Shae Esplin's Portfolio]
+description: [ _Computer Programmer & Physicist & Author_ ]
 
 ### Computer Languages
 1. MATLAB
