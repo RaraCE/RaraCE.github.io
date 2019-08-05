@@ -1,5 +1,5 @@
 # Computer Languages
-1. MATLAB
+1. [MATLAB](./matlab.md)
 2. LABVIEW
 3. Java
 4. HTML/CSS
@@ -20,3 +20,6 @@
 2. Fantasy
 3. Creative
 4. Science Fiction
+
+# Certifications
+1. [Python](./python.md)
