@@ -16,10 +16,10 @@ Northern Arizona University | [Research Assistant](./nauRA.md)
 Northern Arizona University | [Teacher's Assistant](./nauTA.md)
 Retail | [Barista, Cashier, Pet Specialist, etc.](./retail.md)
 NITARP/NASA | [Research Assistant](./embryRA.md)
-Mountain View High | [Secretary Assistant/Copier](./highschool.md)
 
 
 # Computer Languages
+
 From multi-paradigm numerical computing environments to object-oriented programming, I have quite a range of experience in different computer languages. Click each one below to read more about what I had learned, or what I'm currently working on!
 
 Language | Description       
