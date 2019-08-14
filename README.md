@@ -27,8 +27,9 @@ Language | Description
 [MATLAB](./matlab.md) | Numerical computing
 [LABVIEW](./labview.md) | Visual programming
 [Java](./java.md) | Object-oriented programming
-[HTML/CSS](./webdev.md) | Web developing
-[Python](./pythonpro.md) | General-purpose
+HTML/CSS | Web developing
+Python | General-purpose
+C++ | General-purpose
 
 
 # Research and Published Papers
