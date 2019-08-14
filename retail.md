@@ -2,7 +2,7 @@
 
 To simplify my time in retail, I decided to put it all on one page.
 
-Company | Title: Description
+**Company** | **Title: Description**
 PetSmart | Pet Care Specialist: Worked at the PetsHotel
 UPS | Package Handler: Loaded packages into trailers
 Dave's BBQ | Hostess: Showed guests to their tables
