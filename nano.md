@@ -11,7 +11,6 @@ The speeds of these self-propelling Janus particles are important to obtain to e
 UV light can turn the Janus particle’s motion on or off readily. Where they go is a little difficult to control since these Janus particles move randomly, called Brownian Motion. With the given equipment, the only way to semi-control the outcome is to change the geometric shape of the particle. The tail extended from the bead could influence which behavior these particles exhibit.
 
 ## Shape-Dependent Motion of Structured Photoactive Microswimmers
-Graduate Research
 **Description:**
 This time we focused on the geometery of the microparticles and this time used UV light as a reactive agent. It was more promising and potentially a safer delivery system than previous experiement. The end result actually was published through the Applied Materials & Interfaces journal.
 
