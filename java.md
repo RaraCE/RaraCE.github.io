@@ -1,4 +1,4 @@
 # Java
 ### A object-oriented programming language
 
-I started working in Java more than a year ago and it has been a challenge. Being object-oriented should have been easy, but how to write a program was something else of a challenge; however, I worked diligently on my projects. 
+I started working in Java more than a year ago and it has been a challenge. Being object-oriented should have been easy, but how to write a program was something else of a challenge; however, I worked diligently on my projects. Most of my projects had to do with building a car and include car parts or other assignments that got me used to Java programming. I worked with collections, constructors exceptions, inheritance, interfaces, keywords, strings, objects, classes, etc; however, I'm still getting used to the program. At times it feels like I understand something and then try to practice it to only get confused once again. It is a useful tool so I am determined to at least be familiar enough to write my own piece of code, such as an app or something along those lines. 
