@@ -1,2 +1,4 @@
 # Teacher's Assistant
 ## Northern Arizona University
+
+I started as a teacher's assistant in 2014-2015 and then became a graduate teacher's assistant in 2016-2017. There was a somewhat difference between the two. As a undergraduate, my responsiblities ranged from grading quizzes and tests to helping students out by holding study sessions. It wasn't until grad school when I got to teach a class. It was a physics lab, part of one of the main courses, and I taught physics to non-physics students (business, biology, etc.). It was a great experience, since I never taught a class before, and I learned many things from my time as a TA, especially when it came to patience when trying to teach simple or complex problems to a student. It was also an experience that greatly forced me to learn how to manage my time, since I was not only teaching but I was a student and doing graduate research. 
