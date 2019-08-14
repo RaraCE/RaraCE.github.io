@@ -13,7 +13,7 @@ Mountain View High | [Secretary Assistant/Copier](./highschool.md)
 
 
 # Computer Languages
-From multi-paradigm numerical computing environments to object-oriented programming, I have quite a range of experience in different computer languages. 
+From multi-paradigm numerical computing environments to object-oriented programming, I have quite a range of experience in different computer languages. Click each one below to read more about what I had learned, or what I'm currently working on!
 
 Language | Description       
 ----|----
@@ -24,17 +24,17 @@ Language | Description
 [Python](./pythonpro.md) | General-purpose
 
 
-# Research
-Click one of the links below to read more about my research I conducted during college! Through one of them I was given the undergraduate research award (HURA) funded by Northern Arizona University.
+# Research and Published Papers
+One area I am proud of was the opportunity to conduct research and feel like a real scientist. I learned many things from electromagnetism to working in a lab to recording data to knowing how to read other people's data, etc. Please click one of them to read more, I am particularly fond of what I accomplished through Nanoscience at NAU.
 
 [Nanoscience](./nano.md) | [Astronomy](./astro.md)
 
 # Education
-1. [Diploma](./degree.md)
-2. [NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV)
+1. [Diploma](./degree.md) Bachelor of Science in Physics (awarded in 2016)
+2. [NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV) A link to a small article recognizing our work at the university!
 
 # Science
-A somewhat highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist.
+A somewhat highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist. Click one to read more about what I had learned. 
 
 1. [Phyiscs](./physics.md)
 2. [Chemistry](./chemistry.md)
@@ -42,15 +42,16 @@ A somewhat highlight of the things I learned over the years. Each subject provid
 4. Electronics
 
 # Writing
-Writing has always filled my life, but as a hobby it has reached into mutlple book projects, all I self-publish through Amazon Kindle. [Click here](https://booksbyrce.blogspot.com/) to be diverted to my author's page. 
+Writing has always filled my life, but now it's more of a hobby, which turned into mutlple book projects. I self-publish all of my books through Amazon Kindle. [Click here](https://booksbyrce.blogspot.com/) to be diverted to my author's webpage. Some writing techniques or skills that I have practiced over the years are as listed:
 1. Fiction
 2. Fantasy
 3. Creative
 4. Science Fiction
 5. [Technical Writing](./techwr.md)
 
-# Certifications
+# Certifications/Awards
 1. [Python](./python.md): A certification I earned through Edx.org.
+2. Hooper Undergraduate Research Award (HURA): Awarded by Northern Arizona University in 2015
 
 # Volunteer Work And Other Extracurricular Activities
 
