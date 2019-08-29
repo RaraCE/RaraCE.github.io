@@ -58,7 +58,7 @@ Writing has always filled my life, but now it's more of a hobby, which turned in
 5. [Technical Writing](./techwr.md)
 
 # Certifications/Awards
-1. [Python](./python.md): A certification I earned through Edx.org.
+1. [Python](./python.md): A certification I earned through Microsoft offered at Edx.org.
 2. Hooper Undergraduate Research Award (HURA): Awarded by Northern Arizona University in 2015
 
 # Volunteer Work And Other Extracurricular Activities
