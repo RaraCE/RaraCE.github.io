@@ -1,6 +1,6 @@
 # The World of Physics
 
-I like to go over topics that I find special or exciting. 
+Here are some of the classes I took with a short description of each. 
 
 ### Methods of Analytical Physics
 Developed a deeper understanding of complex numbers, linear algebra, vector analysis, probabilities, & special functions
