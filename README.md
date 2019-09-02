@@ -20,7 +20,7 @@ NITARP/NASA | [Research Assistant](./embryRA.md)
 
 # Computer Languages
 
-From multi-paradigm numerical computing environments to object-oriented programming, I have quite a range of experience in different computer languages. Click each one below to read more about what I had learned, or what I'm currently working on!
+From multi-paradigm numerical computing environments to object-oriented programming, I have quite a range of experience in different computer languages.
 
 Language | Description       
 ----|----
