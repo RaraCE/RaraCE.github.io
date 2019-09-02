@@ -24,4 +24,10 @@ Below are some pictures I gathered from my research:
 
 ![graph](graphimage.png)
 
+![image3](HPerox6.png)
+
+![image4](Ti007A Image5.png)
+
+![image5](Ti019 image5.png)
+
 ![janus](magneticJanus.png)
