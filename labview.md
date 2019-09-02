@@ -5,13 +5,13 @@ This was the most interesting program I had worked with. Although, I had worked 
 
 Here are my pictures of the programs of the piano project.
 
-![image4](keyboard)
+![keyboard](keyboard.png)
 
-![image5](matlabkey)
+![matlabkey](matlabkey.png)
 
-![image1](keyboardlabview)
+![keyboardlabview](keyboardlabview.png)
 
-![image2](keyboardlabview2)
+![keyboardlabview2](keyboardlabview2.png)
 
-![image3](keyboardlabview3)
+![keyboardlabview3](keyboardlabview3.png)
 
