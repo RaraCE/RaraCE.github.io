@@ -18,3 +18,8 @@ This time we focused on the geometery of the microparticles and this time used U
 
 **Abstract:**
 We investigate the dynamics of structured photoactive microswimmers and show that morphology sensitively determines the swimming behavior. Particular to this study, a major portion of the light-activated particles’ underlying structure is built from a photocatalytic material, made possible by dynamic physical vapor deposition (DPVD). We find that swimmers of this type exhibit unique shape-dependent autonomous swimming that is distinct from what is seem in systems with similar structural morphology but not fabricated directly from the catalyst. Notably, the direction of motion is a function of these parameters. Because the swimming behavior is strongly correlated with particle shape and material composition, DPVD allows for engineering small-scale propulsion by adjusting the fabrication parameters to match the desired performance.
+
+
+Below are some pictures I gathered from my research:
+
+![graph](graphimage.png)
