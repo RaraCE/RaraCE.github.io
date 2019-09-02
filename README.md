@@ -33,7 +33,7 @@ C++ | General-purpose
 
 
 # Research and Published Papers
-One area I am proud of was the opportunity to conduct research and feel like a real scientist. I learned many things from electromagnetism to working in a lab to recording data to knowing how to read other people's data, etc. Please click one of them to read more, I am particularly fond of what I accomplished through Nanoscience at NAU.
+One area I am proud of was the opportunity to conduct lab research. I learned many things from electromagnetism to working in a lab to recording data to knowing how to read other people's data/published papers, etc. Please click one of them to read more.
 
 [Nanoscience](./nano.md) | [Astronomy](./astro.md)
 
