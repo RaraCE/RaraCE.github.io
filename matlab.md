@@ -70,3 +70,41 @@ F=char(F);T=char(T);
 fprintf('Function = %s \nTaylor series = %s\n',F,T);
 end
 
+
+
+### Temperature
+
+%Finding the constants C and S by using a first-order ploynomial from 
+%The given equation u = (C*T^(3/2)) / (T + S) and will be displayed in
+%command window.
+%The given values are the temperature(Celsius) and viscosity (property of
+%gases and fluids) and are typed in below. 
+%The first plot is the equation T^(3/2)/u = (1/C)*T + S/C (y) Vs. Temp.(x)
+%Second plot will be Temp in Celsius(x) Vs. viscosity(U) 
+ 
+T = [-20, 0, 40, 100, 200, 300, 400, 500, 1000];
+%Temperature, Celsius
+K = T + 273;
+%Temperature, converting to Kelvin
+u = [1.63, 1.71, 1.87, 2.17, 2.53, 2.98, 3.32, 3.64, 5.04];
+%Viscosity, units in Ns/m^2; 
+U = 10^(-5) .* u;
+%The new viscosity (U) has been multiplied by *10^-5
+ 
+C = K(:)\U(:)               %First constant
+S = K(:)\U(:)               %Second constant
+Tu = (1./C).* K(:) + S./C;  %Solve for T^(3/2)/u
+ 
+figure(1);
+plot(K, Tu,'r');
+xlabel('Temperature(Kelvin)');
+ylabel('T^(3/2) /u');
+%Plot one where its Temp. vs Tu (T^(3/2)/u = (1/C)*T + S/C)
+ 
+figure(2);
+plot(T, U, 'b');
+% The x-axis (T) is directly from the given variables that were given
+%in Celsius.
+xlabel('Temperature(Celsius)');
+ylabel('Viscosity(Ns/m^2)');
+%Plot two where Temp. vs u(viscosity)
