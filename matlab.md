@@ -3,7 +3,8 @@
 Most of the work I had to do with MATLAB solely focused on analytical problems and physics problems, such as plotting an object being thrown at sea level with or without air density with different launching angles. I worked with quadratic motion with friction, and worked with the Saha Equation in astrophysics. There were many other examples, since I had to use MATLAB for almost every class. More will be added at a later time.
 
 
-Geometric Series
+### Geometric Series
+
 function geometricseries
 %Sums the geometric series a^0 + a^1 + a^2 + ... + a^n for n = 0 to N
 %  and plots versus N to determine convergence.  If it is a convergent
@@ -32,7 +33,8 @@ else
 end
 end
 
-Taylor Expansion
+### Taylor Expansion
+
 function taylorexpand
 %Plots a single variable function and the first N terms of its Taylor
 %expansion about a point x0 within the interval xi to xf.
