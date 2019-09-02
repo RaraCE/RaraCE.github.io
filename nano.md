@@ -23,3 +23,5 @@ We investigate the dynamics of structured photoactive microswimmers and show tha
 Below are some pictures I gathered from my research:
 
 ![graph](graphimage.png)
+
+![janus](magneticJanus.png)
