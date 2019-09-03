@@ -12,7 +12,7 @@ UV light can turn the Janus particle’s motion on or off readily. Where they go
 
 ## Shape-Dependent Motion of Structured Photoactive Microswimmers
 **Description:**
-This time we focused on the geometery of the microparticles and this time used UV light as a reactive agent. It was more promising and potentially a safer delivery system than previous experiement. The end result actually was published through the Applied Materials & Interfaces journal.
+This time we focused on the geometery of the microparticles and used UV light as a reactive agent. It was more promising and potentially a safer delivery system than previous experiment. The end result actually was published through the Applied Materials & Interfaces journal.
 
 [Shape-Dependent Motion of Structured Photoactive Microswimmers](https://pubs.acs.org/doi/10.1021/acsami.8b01940)
 
