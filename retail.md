@@ -1,6 +1,6 @@
 # Retail
 
-Below are the jobs I've had in the retail business with a short description of the responsibilities I've held while in position. These jobs expand from 2012 to current.
+Below are the jobs I've had in the retail business with a short description of the responsibilities I've held while in position. These jobs coincide from 2012 to current.
 
 **Company** | **Job Title: Description**
 **PetSmart** | Pet Care Specialist: _Currently work_
