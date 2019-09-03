@@ -8,9 +8,8 @@ As someone who graduated with a B.S. in Physics, it's hard to know exactly what 
 I am a well-rounded person, meaning I want to know a bit about everything but I don't lose focus on the big goal. 
 "Knowledge is Key" "Imagination is Important" and "Wisdom Speaks to the Soul" are some of the things I like to live by. Knowing how to effectively communicate, and to know what your weaknesses and strengths are, and to know what tools you have are important for not only in the work environment, but for Life as well. 
 
-A weakness of mine is that I can be restless, meaning I like to get up and move around or I find it incredibly boring doing the same thing over and over again; however, it can be viewed as a strength. It pushed me to explore other sides of myself and what the world has to offer. For example, from my many jobs, I was taught how to deal with difficult customers, how to design a website through Github, how to write a book, how to read a page quickly and constructively, how to manage a crime scene as a forensic scientist, how to get the most work done in the least amount of time, the inner workings of the Sun and fusion reactors, and the list goes on.
+A weakness of mine is that I can be restless, meaning I like to get up and move around or I find it incredibly boring doing the same thing over and over again; however, it can be viewed as a strength. It pushed me to explore other sides of myself and what the world has to offer. For example, from my many jobs, I was taught how to deal with difficult customers, how to design a website through Github, how to write a book, how to read a page quickly and constructively, how to manage a crime scene as a forensic scientist, how to get the most work done in the least amount of time, the inner workings of the Sun and fusion reactors, and the list goes on. I love to learn new things and going to new places.
 
-I love to learn new things and going to new places, but right now I want to prove myself as a Software Developer. It is a career I choose to focus on and grow into. 
 
 # Work Experience
 
