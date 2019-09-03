@@ -2,7 +2,7 @@
 This website is to serve as my portfolio. It lists my achievements, work or academic experiences, awards and certifications. I go into further depth through the links provided on certain subjects, like what I learned, what I liked the most, etc.
 
 ### Goals
-As someone who graduated with a B.S. in Physics, it's hard to know exactly what career I want to go into. I've learned from electronics to astrophysics to nuclear physics to computer programming to chemistry to mathematics, etc. I had a taste of everything, which made it a little difficult to choose on what career I wanted to aim for, but one thing is certain, working with technology is what I want to work in, and being a _Software Developer_ is the challenge and rewarding prospect that I've been looking forward to do.
+As someone who graduated with a B.S. in Physics, it's hard to know exactly what career I want to go into. I've learned from electronics to astrophysics to nuclear physics to computer programming to chemistry to mathematics, etc. I had a taste of everything, which made it a little difficult to choose on what career I wanted to aim for, but one thing is certain, working with technology is what I want to work in, and being a _Software Developer_ is the challenge and rewarding prospect that I've been looking forward to do. However, I've still got a long way to go.
 
 ### About Me
 I am a well-rounded person, meaning I want to know a bit about everything but I don't lose focus on the big goal. 
