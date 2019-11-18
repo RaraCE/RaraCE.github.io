@@ -1,17 +1,17 @@
-# Introduction 
-This website is to serve as my portfolio. It lists my achievements, work or academic experiences, awards and certifications. I go into further depth through the links provided on certain subjects, like what I learned, what I liked the most, etc.
+# 		Introduction 
+	This website is to serve as my portfolio. It lists my achievements, work or academic experiences, awards and certifications. I go into further depth through the links provided on certain subjects, like what I learned, what I liked the most, etc.
 
-### Goals
-As someone who graduated with a B.S. in Physics, it's hard to know exactly what career I want to go into. I've learned from electronics to astrophysics to nuclear physics to computer programming to chemistry to mathematics, etc. I had a taste of everything, which made it a little difficult to choose on what career I wanted to aim for, but one thing is certain, working with technology is what I want to work in, and being a _Software Developer_ is the challenge and rewarding prospect that I've been looking forward to do. However, I've still got a long way to go.
+### 	Goals
+	As someone who graduated with a B.S. in Physics, it's hard to know exactly what career I want to go into. I've learned from electronics to astrophysics to nuclear physics to computer programming to chemistry to mathematics, etc. I had a taste of everything, which made it a little difficult to choose on what career I wanted to aim for, but one thing is certain, working with technology is what I want to work in, and being a _Software Developer_ is the challenge and rewarding prospect that I've been looking forward to do. However, I've still got a long way to go.
 
-### About Me
-I am a well-rounded person, meaning I want to know a bit about everything but I don't lose focus on the big goal. 
-"Knowledge is Key" "Imagination is Important" and "Wisdom Speaks to the Soul" are some of the things I like to live by. Knowing how to effectively communicate, and to know what your weaknesses and strengths are, and to know what tools you have are important for not only in the work environment, but for Life as well. 
+### 	About Me
+	I am a well-rounded person, meaning I want to know a bit about everything but I don't lose focus on the big goal. 
+	"Knowledge is Key" "Imagination is Important" and "Wisdom Speaks to the Soul" are some of the things I like to live by. Knowing how to effectively communicate, and to know what your weaknesses and strengths are, and to know what tools you have are important for not only in the work environment, but for Life as well. 
 
-A weakness of mine is that I can be restless, meaning I like to get up and move around or I find it incredibly boring doing the same thing over and over again; however, it can be viewed as a strength. It pushed me to explore other sides of myself and what the world has to offer. For example, from my many jobs, I was taught how to deal with difficult customers, how to design a website through Github, how to write a book, how to read a page quickly and constructively, how to manage a crime scene as a forensic scientist, how to get the most work done in the least amount of time, the inner workings of the Sun and fusion reactors, and the list goes on. I love to learn new things and going to new places.
+	A weakness of mine is that I can be restless, meaning I like to get up and move around or I find it incredibly boring doing the same thing over and over again; however, it can be viewed as a strength. It pushed me to explore other sides of myself and what the world has to offer. For example, from my many jobs, I was taught how to deal with difficult customers, how to design a website through Github, how to write a book, how to read a page quickly and constructively, how to manage a crime scene as a forensic scientist, how to get the most work done in the least amount of time, the inner workings of the Sun and fusion reactors, and the list goes on. I love to learn new things and going to new places.
 
 
-# Work Experience
+# 	Work Experience
 
 Company | Job Title
 ---- | ----
