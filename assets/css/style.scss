@@ -13,23 +13,17 @@
 body {
   background: linear-gradient(to bottom, #ffffff -3%, #ff9933 95%);
   color: red;
+  font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 header {
   background: linear-gradient(to right, #000099 0%, #0066ff 100%);
+  font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 section {
   color: black;
+  font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
-@font-face {
-    font-family: 'Copse';
-    src: url('../fonts/copse-regular-webfont.eot');
-    src: url('../fonts/copse-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/copse-regular-webfont.woff') format('woff'),
-         url('../fonts/copse-regular-webfont.ttf') format('truetype'),
-         url('../fonts/copse-regular-webfont.svg#CopseRegular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
+
 
 
 
