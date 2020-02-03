@@ -44,7 +44,7 @@ One area I am proud of was the opportunity to conduct lab research. I learned ma
 
 Diploma: Bachelor of Science in Physics (2016)
 
-<img src="diploma.jpg" alt="Image" height="100" width="110" style="center">
+<img src="diploma.jpg" alt="Image" height="200" width="210">
 
 A highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist. Click one to read more about what I had learned. 
 
