@@ -47,7 +47,7 @@ One area I am proud of was the opportunity to conduct lab research. I learned ma
 A highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist. Click one to read more about what I had learned. 
 
 1. [Phyiscs](./physics.md)
-2. [Chemistry](./chemistry.md)
+2. Chemistry (Analytical/Physical, titrations, atomic spectroscopy, chemical analysis methods, etc.)
 3. Mathematics (Algebra, Calculus, Differential Equations, Langrangian, Quantum (basic))
 4. Electronics (circuits, breadboards, logic gates, sequential logic circuits, etc.)
 
