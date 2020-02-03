@@ -43,9 +43,9 @@ One area I am proud of was the opportunity to conduct lab research. I learned ma
 
 # Education
 
-Diploma: Bachelor of Science in Physics (2016)
+Undergraduate Degree: Bachelor of Science in Physics (2016)
 
-<img src="diploma.jpg" alt="Image" height="200" width="210">
+[**Diploma**](./diploma.jpg)
 
 A highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist. Click one to read more about what I had learned. 
 
