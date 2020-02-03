@@ -3,7 +3,7 @@
 Below are the jobs I've had in the retail business with a short description of the responsibilities I've held while in position. These jobs coincide from 2012 to 2019.
 
 **Company** | **Job Title: Description**
-**PetSmart** | Pet Care Specialist: _Currently working at_
+**PetSmart** | Pet Care Specialist: _Worked directly with pets at Doggy Day Camp_
 **UPS** | Package Handler: _Loaded packages into trailers with speed and care, and constantly followed safety procedures_
 **Dave's BBQ** | Hostess: _Showed and performed customer service, professionalism, multitasking, planning, and dealing with high rate of customers_
 **NAU Call Center** | Call Operator: _Called to future students about undergraduate opportunities at Northern Arizona University_
