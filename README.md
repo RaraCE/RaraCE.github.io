@@ -41,7 +41,11 @@ One area I am proud of was the opportunity to conduct lab research. I learned ma
 [Nanoscience](./nano.md) | [Astronomy](./astro.md)
 
 # Education
-1. [Diploma](./degree.md) Bachelor of Science in Physics (awarded in 2016)
+
+Diploma: Bachelor of Science in Physics (2016)
+![degree](diploma.jpg)
+
+1. [Diploma](./degree.md) 
 2. [NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV) A link to a small article recognizing our work at the university!
 
 A highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist. Click one to read more about what I had learned. 
