@@ -1,5 +1,5 @@
 # Introduction 
-This website is to serve as my portfolio. It lists my achievements, work or academic experiences, awards and certifications. I go into further depth through the links provided on certain subjects, like what I learned, what I liked the most, etc.
+This website is to serve as my portfolio. It lists my achievements, work or academic experiences, awards and certifications. I go into further depth on some subjects or provide useful links.
 
 ### Goals
 As someone who graduated with a B.S. in Physics, it's hard to know exactly what career I want to go into. I've learned from electronics to astrophysics to nuclear physics to computer programming to chemistry to mathematics, and more. I had a taste of everything, which made it a little difficult to choose on what career I wanted to aim for, but one thing is certain, working with technology is what I want to work in. More specifically working in plasma electronics (or microelectronic device fabrication). My current job allows me to be immersed in this type of field but I have yet to go back to school to get a degree in plasma physics or something equivalent.
