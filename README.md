@@ -36,7 +36,7 @@ C++ | General-purpose
 
 
 # Research and Published Papers
-One area I am proud of was the opportunity to conduct lab research. I learned many things from electromagnetism to working in a lab to recording data to knowing how to read other people's data/published papers, etc. Please click one of them to read more.
+One area I am proud of was the opportunity to conduct lab research. I learned many things from electromagnetism to working in a lab to recording data to knowing how to read other people's data/published papers, etc. Please click one of them to read more. Also, click here, [NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV), to read a small article recognizing our work at the university!
 
 [Nanoscience](./nano.md) | [Astronomy](./astro.md)
 
@@ -45,9 +45,6 @@ One area I am proud of was the opportunity to conduct lab research. I learned ma
 Diploma: Bachelor of Science in Physics (2016)
 
 <img src="diploma.jpg" alt="Image" height="100" width="110">
-
-1. [Diploma](./degree.md) 
-2. [NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV) A link to a small article recognizing our work at the university!
 
 A highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist. Click one to read more about what I had learned. 
 
