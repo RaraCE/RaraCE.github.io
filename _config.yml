@@ -1,8 +1,6 @@
-## => Site Settings
-##############################
 theme: jekyll-theme-leap-day
-text_skin: default
-highlight_theme: default
+text_skin: ocean
+highlight_theme: tomorrow-night-blue
 
 title: [Ra'Shae Esplin's Portfolio]
 description: [ Physicist & Computer Programmer & Author ]
