@@ -52,7 +52,7 @@ A somewhat highlight of the things I learned over the years. Each subject provid
 3. Mathematics
 4. Electronics
 
-# Writing
+# Authorship
 Writing has always filled my life, but now it's more of a hobby, which turned into mutlple book projects. I self-publish all of my books through Amazon Kindle. [Click here](https://booksbyrce.blogspot.com/) to be diverted to my author's webpage in fictional fantasy and science fiction. Technical/Scientific writing can be found here: [Technical Writing](./techwr.md)
 
 
