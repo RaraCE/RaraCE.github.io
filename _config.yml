@@ -1,3 +1,5 @@
+## => Site Settings
+##############################
 theme: jekyll-theme-leap-day
 text_skin: default
 highlight_theme: default
