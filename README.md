@@ -8,7 +8,7 @@ As someone who graduated with a B.S. in Physics, it's hard to know exactly what 
 I am a well-rounded person, meaning I want to know a bit about everything but I don't lose focus on the big goal. 
 _"Knowledge is Key"_  _"Imagination is Important"_ and _"Wisdom Speaks to the Soul"_ are some of the things I like to live by. Knowing how to effectively communicate, to know what your weaknesses and strengths are, and to know what tools you have are important not only for work, but for life as well. 
 
-Being able to explore is important to me since I find inspiration from it, which drives me to think bolder, wider, and encourages me to think outside-of-the box. When I'm immersed in something my mind quickly makes out the flaws then works on improving it for future use. I don't see things as 'wrong' since there is always a way for something to be improved upon. It reminds me that even as humans we are always constantly learning new things, and hopefully adapting to it.
+Being able to explore is important to me since I find inspiration from it, which drives me to think bolder, wider, and encourages me to think outside-of-the box. When I'm immersed in something my mind quickly makes out the flaws then works on improving it for future use. I don't see things as 'wrong' since there is always something to be improved upon either big or small, even from the most unlikely of ways. It reminds me that even as humans we are always constantly learning new things, and hopefully adapting to it.
 
 
 # Work Experience
