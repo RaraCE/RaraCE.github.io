@@ -43,7 +43,7 @@ One area I am proud of was the opportunity to conduct lab research. I learned ma
 # Education
 
 Diploma: Bachelor of Science in Physics (2016)
-![degree](diploma.jpg)
+<img src="diploma.jpg" alt="Image" height="42" width="42">
 
 1. [Diploma](./degree.md) 
 2. [NAU Spotlight](http://news.nau.edu/student-spotlight-june-8-2018/#.XUeI4OhKjIV) A link to a small article recognizing our work at the university!
