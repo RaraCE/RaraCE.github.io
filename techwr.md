@@ -1,6 +1,6 @@
 # Technical Writing
 
-A few examples to show my skills in technical writing. Although, to me, technical writing is a process that is always adapting and improving based upon new information. As for right now, my papers (that I've written during college) are a bit long and contain complex signia or mathematical signs, so I will only write the title and description below it. However, I am always up to sharing my papers, although as a heads up, I am always learning new techniques so some may be good, some may not be so good. 
+To me, writing is always an 'in-progess' process; adapting and improving based upon new information or coming across a better way to writing/communicating my thoughts. As for right now, my scientific papers (that I've written during college) are a bit long and contain complex signia, so below are only titles and descriptions. However, I am always up to sharing my papers. 
 
 ### X-Ray Photoelectron Spectroscopy: Analysis of a Solid Material
 **Abstract:**
