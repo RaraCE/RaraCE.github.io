@@ -15,7 +15,7 @@ Being able to explore is important to me since I find inspiration from it, which
 
 Company | Job Title
 ---- | ----
-Intel | Manufacturing Equipment Technician
+Intel (current) | Manufacturing Equipment Technician
 Northern Arizona University | [Research Assistant](./nauRA.md)
 Northern Arizona University | [Teacher's Assistant](./nauTA.md)
 Retail | [Barista, Cashier, Pet Specialist, etc.](./retail.md)
