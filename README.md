@@ -53,12 +53,8 @@ A somewhat highlight of the things I learned over the years. Each subject provid
 4. Electronics
 
 # Writing
-Writing has always filled my life, but now it's more of a hobby, which turned into mutlple book projects. I self-publish all of my books through Amazon Kindle. [Click here](https://booksbyrce.blogspot.com/) to be diverted to my author's webpage. Some writing techniques or skills that I have practiced over the years are as listed:
-1. Fiction
-2. Fantasy
-3. Creative
-4. Science Fiction
-5. [Technical Writing](./techwr.md)
+Writing has always filled my life, but now it's more of a hobby, which turned into mutlple book projects. I self-publish all of my books through Amazon Kindle. [Click here](https://booksbyrce.blogspot.com/) to be diverted to my author's webpage in fictional fantasy and science fiction. Technical/Scientific writing can be found here: [Technical Writing](./techwr.md)
+
 
 # Certifications/Awards
 1. [Python](./python.md): A certification I earned through Microsoft offered at Edx.org.
