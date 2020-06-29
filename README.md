@@ -47,7 +47,7 @@ Undergraduate Degree: Bachelor of Science in Physics (2016)
 
 [Diploma](./diploma.jpg)
 
-A highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist. Click one to read more about what I had learned. 
+A highlight of the things I learned over the years. Each subject provided different challenges to overcome and strengthened me to become a better scientist. 
 
 1. [Physics](./physics.md)
 2. **Chemistry** (Analytical/Physical, titrations, atomic spectroscopy, chemical analysis methods, etc.)
@@ -55,7 +55,7 @@ A highlight of the things I learned over the years. Each subject provided differ
 4. **Electronics** (circuits, breadboards, logic gates, sequential logic circuits, etc.)
 
 # Authorship
-Writing has always filled my life, but now it's more of a hobby, which turned into mutlple book projects. I self-publish all of my books through Amazon Kindle. [Click here](https://booksbyrce.blogspot.com/) to be diverted to my author's webpage in fictional fantasy and science fiction. Technical/Scientific writing can be found here: [Technical Writing](./techwr.md)
+Writing has always filled my life, but now it's more of a hobby, which turned into multiple book projects. I self-publish all of my books through Amazon Kindle. [Click here](https://booksbyrce.blogspot.com/) to be diverted to my author's webpage in fictional fantasy and science fiction. Technical/Scientific writing can be found here: [Technical Writing](./techwr.md)
 
 
 # Certifications/Awards
