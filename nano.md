@@ -30,4 +30,3 @@ Below are some pictures I gathered from my research:
 
 ![image5](Ti019image5.png)
 
-![janus](magneticJanus.png)
