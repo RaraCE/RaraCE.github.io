@@ -2,20 +2,20 @@
 This website is to serve as my portfolio. It lists my achievements, work or academic experiences, awards and certifications. I go into further depth on some subjects or provide useful links. If also interested, here is the link to my [Linkedin profile](https://www.linkedin.com/in/ra-shae-esplin-a1a44b53/).
 
 ### Goals
-As someone who graduated with a B.S. in Physics, it's hard to know exactly what career I want to go into. I've learned from electronics to astrophysics to nuclear physics to computer programming to chemistry to mathematics, and more. I had a taste of everything, which made it a little difficult to choose on what career I wanted to aim for, but one thing is certain, I wanted to work with the future of technology. More specifically working in plasma electronics (or microelectronic device fabrication). My current job allows me to be immersed in this type of field but I have yet to go back to school to get a degree in plasma physics or something equivalent.
+In recent changes in my life, it is my goal to expand my career into video editing and voice acting/overs. For video editing, I've done small projects in high school and college, and in current years. It included small video effects and managing the order of events to make the video exciting or humorous (which was the main goal of the project). I've only been part of two projects in voice acting, which is a voice over in a parody cartoon show and book narration. 
 
 ### About Me
-I am a well-rounded person, meaning I want to know a bit about everything but I don't lose focus on the big goal. 
+I am a well-rounded person, meaning I want to know a bit about everything but I don't lose focus on the main goal. 
 _"Knowledge is Key"_  _"Imagination is Important"_ and _"Wisdom Speaks to the Soul"_ are some of the things I like to live by. Knowing how to effectively communicate, to know what your weaknesses and strengths are, and to know what tools you have are important not only for work, but for life as well. 
 
-Being able to explore is important to me since I find inspiration from it, which drives me to think bolder, wider, and encourages me to think outside-of-the box. When I'm immersed in something my mind quickly makes out the flaws then works on improving it for future use. I don't see things as 'wrong' since there is always something to be improved upon either big or small, even from the most unlikely of ways. It reminds me that even as humans we are always constantly learning new things, and hopefully adapting to it.
+Being able to explore is important to me since I find inspiration from it, which drives me to think bolder, more imaginative, and encourages me to think outside-of-the box. When I'm immersed in something my mind quickly sets out to improve it to make it better or enjoyable.
 
 
 # Work Experience
 
 Company | Job Title
 ---- | ----
-Intel (current) | Manufacturing Equipment Technician
+Intel | Manufacturing Equipment Technician
 Northern Arizona University | [Research Assistant](./nauRA.md)
 Northern Arizona University | [Teacher's Assistant](./nauTA.md)
 Retail | [Barista, Cashier, Pet Specialist, etc.](./retail.md)
@@ -55,7 +55,7 @@ A highlight of the things I learned over the years. Each subject provided differ
 4. **Electronics** (circuits, breadboards, logic gates, sequential logic circuits, etc.)
 
 # Authorship
-Writing has always filled my life, but now it's more of a hobby, which turned into multiple book projects. I self-publish all of my books through Amazon Kindle. [Click here](https://booksbyrce.blogspot.com/) to be diverted to my author's webpage in fictional fantasy and science fiction. Technical/Scientific writing can be found here: [Technical Writing](./techwr.md)
+Writing has always filled my life, which has turned into multiple book projects. I self-publish all of my books through Amazon. [Click here](https://booksbyrce.blogspot.com/) to be diverted to my author's webpage in fictional fantasy and science fiction. Technical/Scientific writing can be found here: [Technical Writing](./techwr.md)
 
 
 # Certifications/Awards
