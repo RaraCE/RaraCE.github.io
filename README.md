@@ -2,7 +2,7 @@
 This website is to serve as my portfolio. It lists my achievements, work or academic experiences, awards and certifications. I go into further depth on some subjects or provide useful links. If also interested, here is the link to my [Linkedin profile](https://www.linkedin.com/in/ra-shae-esplin-a1a44b53/).
 
 ### Goals
-In recent changes in my life, it is my goal to expand my career into video editing and voice acting/overs. For video editing, I've done small projects in high school and college, and in current years. It included small video effects and managing the order of events to make the video exciting or humorous (which was the main goal of the project). I've only been part of two projects in voice acting, which is a voice over in a parody cartoon show and book narration. 
+To further my career using the tools I've gathered throughout life and to continue learning new tricks of the trade. 
 
 ### About Me
 I am a well-rounded person, meaning I want to know a bit about everything but I don't lose focus on the main goal. 
